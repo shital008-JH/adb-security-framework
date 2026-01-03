@@ -37,13 +37,17 @@ It follows a **clean modular architecture**, making it suitable for:
 
 ## 🧱 Architecture Overview
 
-ADB (CLI)
-│
-├── adb_utils.py → Central ADB command handler
-│
-├── runners/ → CLI execution layer
-│
-└── modules/ → Core analysis engines
+ ADB (CLI)
+  │
+  ├── adb_utils.py
+  │     └─ Central ADB command handler
+  │
+  ├── runners/
+  │     └─ CLI execution layer
+  │
+  └── modules/
+        └─ Core analysis engines
+
 
 Each **module** contains logic only.  
 Each **runner** executes one module via ADB.
