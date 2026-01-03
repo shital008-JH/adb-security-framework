@@ -1,0 +1,202 @@
+--------- beginning of system
+01-02 21:51:04.645  1848  2388 D UserManagerServiceExtImpl: getMultiSystemUserId  res = -10000
+01-02 21:51:04.645  1848 10500 D UserManagerServiceExtImpl: getMultiSystemUserId  res = -10000
+01-02 21:51:04.655  1848 16262 D UserManagerServiceExtImpl: getMultiSystemUserId  res = -10000
+01-02 21:51:04.657  1848  3012 I OplusCustomizeService: pkg:com.android.systemui isPlatformSigned, return true drectly 
+--------- beginning of main
+01-02 21:51:04.658  2229  2229 D SysUiState: SysUiState changed: old=131524 new=452
+01-02 21:51:04.658  2229  2229 D OverviewProxyService: Notifying sysui state change to overview service: proxy=com.android.systemui.shared.recents.IOverviewProxy$Stub$Proxy@c6908a2 flags=452
+01-02 21:51:04.659  6316  6316 D TouchInteractionService: Stopping tracing. Dumping to file=/data/user_de/0/com.android.launcher/files/launcher_trace.pb
+01-02 21:51:04.661  2229  2229 V KeyguardSecurityView: getSecurityView securityMode = None
+01-02 21:51:04.661  2229  2229 V KeyguardSecurityView: getSecurityView view = null
+01-02 21:51:04.664  1848 16262 I OplusCustomizeService: pkg:com.android.systemui isPlatformSigned, return true drectly 
+01-02 21:51:04.664  1848 16262 E OplusCustomizeRestrictionManagerService: getMobileDataMode error :s == null
+01-02 21:51:04.665  2229  2229 D OplusQSDetail: getRealDisplayMetrics widthPixels: 1080, heightPixels: 2400
+01-02 21:51:04.665  2229  2229 D OplusQSDetail: updateLayoutFrame ï¼š getMeasuredHeight=1308, layoutParams.height= 1473
+01-02 21:51:04.666  1848 16262 I OplusCustomizeService: pkg:com.android.systemui isPlatformSigned, return true drectly 
+01-02 21:51:04.666  1848 16262 D OplusCustomizeConnectivityManagerService: getBluetoothPolicies 2
+01-02 21:51:04.669  1848  2388 I OplusCustomizeService: pkg:com.android.systemui isPlatformSigned, return true drectly 
+01-02 21:51:04.670  1848  2388 D UserManagerServiceExtImpl: getMultiSystemUserId  res = -10000
+01-02 21:51:04.680  1848  2388 I OplusCustomizeService: pkg:com.android.systemui isPlatformSigned, return true drectly 
+01-02 21:51:04.680  1848 16262 D UserManagerServiceExtImpl: getMultiSystemUserId  res = -10000
+01-02 21:51:04.681  1848 16262 I OplusCustomizeService: pkg:com.android.systemui isPlatformSigned, return true drectly 
+01-02 21:51:04.686  1848  2388 I OplusCustomizeService: pkg:com.android.systemui isPlatformSigned, return true drectly 
+01-02 21:51:04.686  1848  2388 E OplusCustomizeRestrictionManagerService: getMobileDataMode error :s == null
+01-02 21:51:04.692  1848  2388 I OplusCustomizeService: pkg:com.android.systemui isPlatformSigned, return true drectly 
+01-02 21:51:04.692  1848  2388 E OplusCustomizeRestrictionManagerService: getMobileDataMode error :s == null
+01-02 21:51:04.698  1848  2388 I OplusCustomizeService: pkg:com.android.systemui isPlatformSigned, return true drectly 
+01-02 21:51:04.698  1848  2388 E OplusCustomizeRestrictionManagerService: getMobileDataMode error :s == null
+01-02 21:51:04.699  1848  2388 I OplusCustomizeService: pkg:com.android.systemui isPlatformSigned, return true drectly 
+01-02 21:51:04.699  1848  2388 D OplusCustomizeConnectivityManagerService: getBluetoothPolicies 2
+01-02 21:51:04.700  1848  2388 I OplusCustomizeService: pkg:com.android.systemui isPlatformSigned, return true drectly 
+01-02 21:51:04.701  1848  2388 D UserManagerServiceExtImpl: getMultiSystemUserId  res = -10000
+01-02 21:51:04.702  1848  2388 I OplusCustomizeService: pkg:com.android.systemui isPlatformSigned, return true drectly 
+01-02 21:51:04.702  1848  2388 D OplusCustomizeConnectivityManagerService: getBluetoothPolicies 2
+01-02 21:51:04.703  1848  2388 I OplusCustomizeService: pkg:com.android.systemui isPlatformSigned, return true drectly 
+01-02 21:51:05.664  2229  2229 D OplusScrollToTopManager: registerGuidePopupDismissReceiverInSystemUI
+01-02 21:51:05.665  1848  3012 W ActivityManager: Receiver with filter android.content.IntentFilter@bc25f58 already registered for pid 2229, callerPackage is com.android.systemui
+01-02 21:51:05.666  2229  2229 D OplusScrollToTopManager: after registerGuidePopupDismissReceiverInSystemUI
+01-02 21:51:07.761  2838  3193 E PhoneInterfaceManager: [PhoneIntfMgr] getCarrierPrivilegeStatus: No UICC
+01-02 21:51:07.766  6906  7005 D AudioManagerExtImpl: getStreamVolume packageName=com.applovin.array.apphub.vincere, index=5, streamType=3
+01-02 21:51:09.516   890 11033 D [BT]    : mtk_bt_op: BT_VND_OP_LPM_WAKE_SET_STATE
+01-02 21:51:09.615  1280  1280 I thermal_repeater: [recvMdThermalInfo] ret=27, strLen=127,  1, 32767,,, 0, 32767, 9452
+01-02 21:51:10.069 32116 10855 I NearbyPresence: (REDACTED) %s verified [==] new request %s equals to the old request
+01-02 21:51:13.052  1848  1875 D AES     : AEEIOCTL_GET/SET_SF_STATE IOCTL,cmd= 1074294797, lParam=0. 
+01-02 21:51:13.052  1848  1875 D AES     : AEEIOCTL_RT_MON_Kick IOCTL,cmd= 2147774474, lParam=300. 
+01-02 21:51:14.587 32076 32076 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.inappreach.service.START dat=chimera-action: cmp=com.google.android.gms/.chimera.GmsApiService }
+01-02 21:51:19.635  1280  1280 I thermal_repeater: [recvMdThermalInfo] ret=27, strLen=127,  1, 32767,,, 0, 32767, 9452
+01-02 21:51:20.379  1023  1043 D ccci_mdinit: (1):monitor_time_update_thread round:885 ########
+01-02 21:51:25.439   939   958 D power@timer: [mtkPowerTimer] visRead:0
+01-02 21:51:29.653  1280  1280 I thermal_repeater: [recvMdThermalInfo] ret=27, strLen=127,  1, 32767,,, 0, 32767, 9452
+01-02 21:51:37.765  2838  3193 E PhoneInterfaceManager: [PhoneIntfMgr] getCarrierPrivilegeStatus: No UICC
+01-02 21:51:37.768  6906  7005 D AudioManagerExtImpl: getStreamVolume packageName=com.applovin.array.apphub.vincere, index=5, streamType=3
+01-02 21:51:39.673  1280  1280 I thermal_repeater: [recvMdThermalInfo] ret=27, strLen=127,  1, 32767,,, 0, 32767, 9452
+01-02 21:51:43.053  1848  1875 D AES     : AEEIOCTL_GET/SET_SF_STATE IOCTL,cmd= 1074294797, lParam=0. 
+01-02 21:51:43.053  1848  1875 D AES     : AEEIOCTL_RT_MON_Kick IOCTL,cmd= 2147774474, lParam=300. 
+01-02 21:51:49.694  1280  1280 I thermal_repeater: [recvMdThermalInfo] ret=27, strLen=127,  1, 32767,,, 0, 32767, 9452
+01-02 21:51:50.007  3369  3379 E horae   : 0: back:31662,frame:31775,front:30664, -2147483648 4, +(958), 0 ,32600,32000,32733,32319
+01-02 21:51:50.389  1023  1043 D ccci_mdinit: (1):monitor_time_update_thread round:886 ########
+01-02 21:51:51.357  2734  2734 D ModemAciService: onReceive oplus.intent.action.INTERNAL_LOOP_UPDATE_ACTIVITYINFO_ALARM
+01-02 21:51:51.423 14685 14685 D WM-SystemJobService: onStartJob for WorkGenerationalId(workSpecId=08206350-a66c-4579-82fc-93ddd0efb99d, generation=0)
+01-02 21:51:51.425 14685 14685 D WM-SystemJobService: onStartJob for WorkGenerationalId(workSpecId=cdcf67b9-dac8-413c-b974-0b9cbc5870b6, generation=0)
+01-02 21:51:51.435 14685 14728 D WM-Processor: fqn: processing WorkGenerationalId(workSpecId=08206350-a66c-4579-82fc-93ddd0efb99d, generation=0)
+01-02 21:51:51.438 14685 14728 D WM-Processor: fqn: processing WorkGenerationalId(workSpecId=cdcf67b9-dac8-413c-b974-0b9cbc5870b6, generation=0)
+01-02 21:51:51.447 14685 14685 D WM-WorkerWrapper: Starting work for com.google.apps.tiktok.contrib.work.TikTokListenableWorker
+01-02 21:51:51.447  1848 10500 W OplusSelfProtectManager: pkg[com.oplus.crashbox] not in policy list
+01-02 21:51:51.458 14685 14720 I DialerSingletonScopedExternalsLogging: com.google.android.dialershared.externals.logging.SingletonScopedExternalsLogging.recordCallMethodInvocation:75 event: TIKTOK_WORK_EXECUTION_MONITOR_ON_WORK_STARTED, function parameters: [08206350-a66c-4579-82fc-93ddd0efb99d,com.android.dialer.dobby.impl.storage.postcall.DobbyMetricsWorker], return value: <empty>
+01-02 21:51:51.477 14685 14685 D WM-WorkerWrapper: Starting work for com.google.apps.tiktok.contrib.work.TikTokListenableWorker
+01-02 21:51:51.478 14685 14713 I DialerDobbyDonationsWorker: com.android.dialer.dobby.impl.feedback.upload.DobbyDonationsWorker$startWork$1.invokeSuspend:66 starting work
+01-02 21:51:51.477 22571 22591 W DcsSwitchHelper: not found settings strengthen service key
+01-02 21:51:51.478 14685 14720 I DialerSingletonScopedExternalsLogging: com.google.android.dialershared.externals.logging.SingletonScopedExternalsLogging.recordCallMethodInvocation:75 event: TIKTOK_WORK_EXECUTION_MONITOR_ON_WORK_STARTED, function parameters: [cdcf67b9-dac8-413c-b974-0b9cbc5870b6,com.android.dialer.callscreen.impl.donation.scotty.CallScreenMetricsWorker], return value: <empty>
+01-02 21:51:51.480 14685 14685 I DialerCallScreenMetricsWorker: com.android.dialer.callscreen.impl.donation.scotty.CallScreenMetricsWorker.startWork:71 enter
+01-02 21:51:51.482 14685 14713 I DialerDobbyEnabledFn: com.android.dialer.dobby.enabledfn.DobbyEnabledFn.isEnabled:23 disabled by flag [CONTEXT ratelimit_period="1 MINUTES" skipped=10 ]
+01-02 21:51:51.482 14685 14713 I DialerDobbyDonationsWorker: com.android.dialer.dobby.impl.feedback.upload.DobbyDonationsWorker$startWork$1.invokeSuspend:69 Dobby is not enabled
+01-02 21:51:51.484 22571 22591 D AppFeatureProviderUtils: getStringForFeature: true
+01-02 21:51:51.484 14685 14720 I DialerAndroidAutoStatusLookupImpl: com.android.dialer.androidautostatuslookup.impl.AndroidAutoStatusLookupImpl.isAndroidAutoConnected:97 Android Auto connected in 0 mode [CONTEXT ratelimit_period="1 MINUTES" skipped=19 ]
+01-02 21:51:51.487 14685 14722 I DialerSingletonScopedExternalsLogging: com.google.android.dialershared.externals.logging.SingletonScopedExternalsLogging.recordCallMethodInvocation:75 event: TIKTOK_WORK_EXECUTION_MONITOR_ON_WORK_FINISHED, function parameters: [08206350-a66c-4579-82fc-93ddd0efb99d,com.android.dialer.dobby.impl.storage.postcall.DobbyMetricsWorker], return value: Failure
+01-02 21:51:51.487 14685 14720 I DialerLogcatLoggingBindings: com.android.dialer.logging.logcat.LogcatLoggingBindings.logImpression:54 Impression: DOBBY_DONATION_WORKER_START
+01-02 21:51:51.487 22571 22591 D AppFeatureProviderUtils: getStringForFeature: null
+01-02 21:51:51.489 22571 22591 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.bindService:1929 android.content.ContextWrapper.bindService:822 s4.c.b:7 s4.a.c:5 e4.a.a:1 
+01-02 21:51:51.495 14685 14728 I WM-WorkerWrapper: Worker result FAILURE for Work [ id=08206350-a66c-4579-82fc-93ddd0efb99d, tags={ com.google.apps.tiktok.contrib.work.TikTokListenableWorker,TikTokWorker#com.android.dialer.dobby.impl.storage.postcall.DobbyMetricsWorker } ]
+01-02 21:51:51.496 14685 14722 I DialerLoggingConsentCheckerImpl: com.google.android.callingshared.logging.consent.impl.LoggingConsentCheckerImpl.getConsent:72 timer stop with success, timer present: false
+01-02 21:51:51.500 14685 14722 I DialerLoggingConsentCheckerImpl: com.google.android.callingshared.logging.consent.impl.LoggingConsentCheckerImpl.getConsent:72 timer stop with success, timer present: false
+01-02 21:51:51.505 14685 14685 D WM-Processor: fqn 08206350-a66c-4579-82fc-93ddd0efb99d executed; reschedule = false
+01-02 21:51:51.506 14685 14685 D WM-SystemJobService: 08206350-a66c-4579-82fc-93ddd0efb99d executed on JobScheduler
+01-02 21:51:51.512 14685 14728 D WM-GreedyScheduler: Cancelling work ID 08206350-a66c-4579-82fc-93ddd0efb99d
+01-02 21:51:51.513 15242 15261 E StdID   : com.oplus.crashbox:DUID:ret:T
+01-02 21:51:51.521 14685 14720 I DialerSingletonScopedExternalsLogging: com.google.android.dialershared.externals.logging.SingletonScopedExternalsLogging.recordCallMethodInvocation:75 event: TIKTOK_WORK_EXECUTION_MONITOR_ON_WORK_FINISHED, function parameters: [cdcf67b9-dac8-413c-b974-0b9cbc5870b6,com.android.dialer.callscreen.impl.donation.scotty.CallScreenMetricsWorker], return value: Success
+01-02 21:51:51.532 14685 14722 I DialerLoggingConsentCheckerImpl: com.google.android.callingshared.logging.consent.impl.LoggingConsentCheckerImpl.getConsent:72 timer stop with success, timer present: false
+01-02 21:51:51.532 14685 14728 D WM-SystemJobScheduler: Scheduling work ID 08206350-a66c-4579-82fc-93ddd0efb99dJob ID 61
+01-02 21:51:51.536 14685 14728 D WM-GreedyScheduler: Ignoring {WorkSpec: 536cf223-c08f-4ac4-bf38-2d86a6708361}. Requires device idle.
+01-02 21:51:51.536 14685 14728 D WM-GreedyScheduler: Ignoring {WorkSpec: 4765b33a-846d-4fd6-91ee-fa2cd59c2425}. Requires device idle.
+01-02 21:51:51.536 14685 14728 D WM-GreedyScheduler: Ignoring {WorkSpec: 23cf9e1a-3ab8-4219-a13f-fae0c4a03f8d}. Requires device idle.
+01-02 21:51:51.537 14685 14728 D WM-GreedyScheduler: Starting work for f708773f-0375-4321-8a09-fb0d57f4e420
+01-02 21:51:51.537 14685 14728 D WM-GreedyScheduler: Ignoring {WorkSpec: 11dcd2e9-b2db-4e43-aa2e-f2b6f3d13fac}. Requires device idle.
+01-02 21:51:51.537 14685 14728 D WM-GreedyScheduler: Starting tracking for 4e2b51bb-7a02-49bb-8da2-91ef51f9b63b
+01-02 21:51:51.543 14685 14728 I WM-WorkerWrapper: Worker result SUCCESS for Work [ id=cdcf67b9-dac8-413c-b974-0b9cbc5870b6, tags={ com.google.apps.tiktok.contrib.work.TikTokListenableWorker,TikTokWorker#com.android.dialer.callscreen.impl.donation.scotty.CallScreenMetricsWorker } ]
+01-02 21:51:51.548 14685 14685 D WM-Processor: fqn cdcf67b9-dac8-413c-b974-0b9cbc5870b6 executed; reschedule = false
+01-02 21:51:51.548 14685 14685 D WM-SystemJobService: cdcf67b9-dac8-413c-b974-0b9cbc5870b6 executed on JobScheduler
+01-02 21:51:51.551 14685 14728 D WM-Processor: fqn: processing WorkGenerationalId(workSpecId=f708773f-0375-4321-8a09-fb0d57f4e420, generation=0)
+01-02 21:51:51.560 14685 14728 D WM-GreedyScheduler: Cancelling work ID cdcf67b9-dac8-413c-b974-0b9cbc5870b6
+01-02 21:51:51.560 14685 14700 W .android.diale: Reducing the number of considered missed Gc histogram windows from 147 to 100
+01-02 21:51:51.564 22571  9295 I OCloudSdk.UploadWorker: start
+01-02 21:51:51.569 14685 14728 D WM-SystemJobScheduler: Scheduling work ID cdcf67b9-dac8-413c-b974-0b9cbc5870b6Job ID 59
+01-02 21:51:51.572 14685 14728 D WM-GreedyScheduler: Ignoring {WorkSpec: 536cf223-c08f-4ac4-bf38-2d86a6708361}. Requires device idle.
+01-02 21:51:51.572 14685 14728 D WM-GreedyScheduler: Ignoring {WorkSpec: 4765b33a-846d-4fd6-91ee-fa2cd59c2425}. Requires device idle.
+01-02 21:51:51.572 14685 14728 D WM-GreedyScheduler: Ignoring {WorkSpec: 23cf9e1a-3ab8-4219-a13f-fae0c4a03f8d}. Requires device idle.
+01-02 21:51:51.572 14685 14728 D WM-GreedyScheduler: Ignoring {WorkSpec: 11dcd2e9-b2db-4e43-aa2e-f2b6f3d13fac}. Requires device idle.
+01-02 21:51:51.572 14685 14728 D WM-GreedyScheduler: Starting tracking for 4e2b51bb-7a02-49bb-8da2-91ef51f9b63b
+01-02 21:51:51.573 15242 15261 D OplusNotificationManager: getStdid--pkg:com.oplus.crashbox,uid:1000,type:GUID
+01-02 21:51:51.573 15242 15261 E StdID   : com.oplus.crashbox:GUID:ret:T
+01-02 21:51:51.576 14685 14685 D WM-WorkerWrapper: Starting work for com.google.apps.tiktok.contrib.work.TikTokListenableWorker
+01-02 21:51:51.576 14685 14722 I DialerSingletonScopedExternalsLogging: com.google.android.dialershared.externals.logging.SingletonScopedExternalsLogging.recordCallMethodInvocation:75 event: TIKTOK_WORK_EXECUTION_MONITOR_ON_WORK_STARTED, function parameters: [f708773f-0375-4321-8a09-fb0d57f4e420,com.android.dialer.xatu.impl.storage.postcall.XatuMetricsWorker], return value: <empty>
+01-02 21:51:51.577 14685 14685 I DialerXatuMetricsWorker: com.android.dialer.xatu.impl.storage.postcall.XatuMetricsWorker.startWork:67 enter
+01-02 21:51:51.594 15242 15261 E StdID   : com.oplus.crashbox:DUID:ret:T
+01-02 21:51:51.596 14685 14720 I DialerSingletonScopedExternalsLogging: com.google.android.dialershared.externals.logging.SingletonScopedExternalsLogging.recordCallMethodInvocation:75 event: TIKTOK_WORK_EXECUTION_MONITOR_ON_WORK_FINISHED, function parameters: [f708773f-0375-4321-8a09-fb0d57f4e420,com.android.dialer.xatu.impl.storage.postcall.XatuMetricsWorker], return value: Success
+01-02 21:51:51.599 14685 14739 I WM-WorkerWrapper: Worker result SUCCESS for Work [ id=f708773f-0375-4321-8a09-fb0d57f4e420, tags={ com.google.apps.tiktok.contrib.work.TikTokListenableWorker,TikTokWorker#com.android.dialer.xatu.impl.storage.postcall.XatuMetricsWorker } ]
+01-02 21:51:51.603 14685 14722 I DialerLoggingConsentCheckerImpl: com.google.android.callingshared.logging.consent.impl.LoggingConsentCheckerImpl.getConsent:72 timer stop with success, timer present: false
+01-02 21:51:51.605 14685 14685 D WM-Processor: fqn f708773f-0375-4321-8a09-fb0d57f4e420 executed; reschedule = false
+01-02 21:51:51.608 14685 14739 D WM-GreedyScheduler: Cancelling work ID f708773f-0375-4321-8a09-fb0d57f4e420
+01-02 21:51:51.613  1848 16264 W OplusSelfProtectManager: pkg[com.oplus.crashbox] not in policy list
+01-02 21:51:51.619 22571 22611 I WM-WorkerWrapper: Worker result SUCCESS for Work [ id=12f2ca02-7e9a-4f78-afcd-826d7d2eeeef, tags={ com.oplus.crashbox.manager.fileupload.FileUploadWorker } ]
+01-02 21:51:51.620 14685 14739 D WM-SystemJobScheduler: Scheduling work ID f708773f-0375-4321-8a09-fb0d57f4e420Job ID 84
+01-02 21:51:51.625 14685 14739 D WM-GreedyScheduler: Ignoring {WorkSpec: 536cf223-c08f-4ac4-bf38-2d86a6708361}. Requires device idle.
+01-02 21:51:51.625 14685 14739 D WM-GreedyScheduler: Ignoring {WorkSpec: 4765b33a-846d-4fd6-91ee-fa2cd59c2425}. Requires device idle.
+01-02 21:51:51.625 14685 14739 D WM-GreedyScheduler: Ignoring {WorkSpec: 23cf9e1a-3ab8-4219-a13f-fae0c4a03f8d}. Requires device idle.
+01-02 21:51:51.625 14685 14739 D WM-GreedyScheduler: Ignoring {WorkSpec: 11dcd2e9-b2db-4e43-aa2e-f2b6f3d13fac}. Requires device idle.
+01-02 21:51:51.625 14685 14739 D WM-GreedyScheduler: Starting tracking for 4e2b51bb-7a02-49bb-8da2-91ef51f9b63b
+01-02 21:51:51.634 22571 22584 W .oplus.crashbo: Reducing the number of considered missed Gc histogram windows from 283 to 100
+01-02 21:51:51.674   970   970 D vendor.oplus.hardware.mtkmodemaci@1.0-service: open /proc/ccci_lp_mem successful! size:0
+01-02 21:51:51.675   970   970 E vendor.oplus.hardware.mtkmodemaci@1.0-service: read mtkmodemaci failed!
+01-02 21:51:51.675  2734  2734 D MtkModemAciHidlUtils: getMtkModemAciStats null
+01-02 21:51:51.676  2734  2734 E ModemAciService: CatchException getIcdIntFromStringArray():java.lang.NumberFormatException: s == null
+01-02 21:51:51.676  2734  2734 E ModemAciService: CatchException getIcdIntFromStringArray():java.lang.NumberFormatException: s == null
+01-02 21:51:51.677  2734  2734 I ModemAciService: UMF LO: OplusModemActivityInfo{ date=01-02 21:51:51.673 sleepTimeMs=0 idleTimeMs=0 rxTimeMs=0 5gRxTimeMs=0 mtkTxTimeMs[]=[0, 0, 0, 0, 0, 0, 0, 0] mtk5gTxTimeMs[]=[0, 0, 0, 0, 0, 0, 0, 0] rrcConn10sC[]=[0, 0] rrcConn20sC[]=[0, 0] rrcConnMore20sC[]=[0, 0] rrcConnC[]=[0, 0] csChangedC[]=[0, 0] psChangedC[]=[0, 0] iRatC[]=[0, 0] cellUpdateC[]=[0, 0] nwSrchC[]=[0, 0] nwSrchT[]=[0, 0] lteRrcConnT[]=[0, 0] psRegT[]=[0, 0] csRegT[]=[0, 0] psNoRegT[]=[316, 316] csNoRegT[]=[316, 316] sigGrid0T[]=[0, 0] endcActT[]=[0, 0] saRrcConn10sC[]=[0, 0] saRrcConn20sC[]=[0, 0] saRrcConnMore20sC[]=[0, 0] saRrcConnC[]=[0, 0] saRrcConnT[]=[0, 0]}
+01-02 21:51:51.680  2734  2734 E PowerMitigationService: onPowerKpiChanged():SettleObj{ what=LO date=01-02 21:51:51.677 duration=316 screenOnRatio=0 screenOffRatio=0 power=0 current=0 networkType=null dataNetworkType=0 signalStrength=0 aodState=0 softAp=false charge=false simCount=0 defaultPhone=0 apssSleepC=0 apssSleepRatio=0 mpssSleepC=0 mpssSleepRatio=0 vminSleepC=0 vminSleepRatio=0 modemPowermA[]=[0,0,0] sleepRatio=0 idleRatio=100.00 rxRatio=0 5gRxRatio=0 txSumRatio=0 5gTxSumRatio=0 mtkTxRatio[]=[0,0,0,0,0,0,0,0] mtk5gTxRatio[]=[0,0,0,0,0,0,0,0] rrcConn10sC[]=[0, 0] rrcConn20sC[]=[0, 0] rrcConnMore20sC[]=[0, 0] rrcConnC[]=[0, 0] csChangedC[]=[0, 0] psChangedC[]=[0, 0] iRatC[]=[0, 0] cellUpdateC[]=[0, 0] nwSrchC[]=[0, 0] nwSrchRatio[]=[0,0] lteRrcConnRatio[]=[0,0] psRegRatio[]=[0,0] csRegRatio[]=[0,0] psNoRegRatio[]=[100.00,100.00] csNoRegRatio[]=[100.00,100.00] sigGrid0Ratio[]=[0,0] endcActRatio[]=[0,0] allWakeupC={} appInWakeupC={} appOutWakeupC={} appWakeupRatio={} appTrafficC={} saRrcConn10sC[]=[0, 0] saRrcConn20sC[]=[0, 0] saRrcConnMore20sC[]=[0, 0] saRrcConnC[]=[0, 0] saRrcConnRatio[]=[0,0]}
+01-02 21:51:51.680  2734  2734 D PowerMitigationService: checkAbnormalState SALTEPINGPONG isAbnormalState=[0, 0] isRestrainState=[0, 0] SAACTIVEHIGH isAbnormalState=[0, 0] isRestrainState=[0, 0] NOSIMLOWSLEEPRATIO isAbnormalState=[0] isRestrainState=[0] FREQUENTMODEMDATA isAbnormalState=[0, 0] isRestrainState=[0, 0] 5GRXACTIVEHIGH isAbnormalState=[0, 0] isRestrainState=[0, 0] 
+01-02 21:51:51.683  2734  2734 D PowerMitigationService: SceneObj actionString={ sceneType=SALTEPINGPONG sceneEnable=true actionPhoneNum=2 isAbnormalState=[0, 0] isRestrainState=[0, 0] deviceState=0 networkState=0 operatorState=[0, 0] countState=[0, 0] [currCount, Max]=[[0, 0],10] powerSceneSate=[0, 0] powerActionID=[17, 17] powerLastActionID=[0, 0] powerDelayActionID=[0, 0]}
+01-02 21:51:51.684  2734  2734 D PowerMitigationService: SceneObj actionString={ sceneType=SAACTIVEHIGH sceneEnable=true actionPhoneNum=2 isAbnormalState=[0, 0] isRestrainState=[0, 0] deviceState=0 networkState=0 operatorState=[0, 0] countState=[0, 0] [currCount, Max]=[[0, 0],10] powerSceneSate=[0, 0] powerActionID=[17, 17] powerLastActionID=[0, 0] powerDelayActionID=[0, 0]}
+01-02 21:51:51.685  2734  2734 D PowerMitigationService: SceneObj actionString={ sceneType=NOSIMLOWSLEEPRATIO sceneEnable=false actionPhoneNum=1 isAbnormalState=[0] isRestrainState=[0] deviceState=0 networkState=0 operatorState=[0] countState=[0] [currCount, Max]=[[0],10] powerSceneSate=[0] powerActionID=[0] powerLastActionID=[0] powerDelayActionID=[0]}
+01-02 21:51:51.686  2734  2734 D PowerMitigationService: SceneObj actionString={ sceneType=FREQUENTMODEMDATA sceneEnable=true actionPhoneNum=2 isAbnormalState=[0, 0] isRestrainState=[0, 0] deviceState=0 networkState=0 operatorState=[0, 0] countState=[0, 0] [currCount, Max]=[[0, 0],3] powerSceneSate=[0, 0] powerActionID=[0, 0] powerLastActionID=[0, 0] powerDelayActionID=[0, 0]}
+01-02 21:51:51.686  2734  2734 D PowerMitigationService: SceneObj actionString={ sceneType=5GRXACTIVEHIGH sceneEnable=false actionPhoneNum=2 isAbnormalState=[0, 0] isRestrainState=[0, 0] deviceState=0 networkState=0 operatorState=[0, 0] countState=[0, 0] [currCount, Max]=[[0, 0],3] powerSceneSate=[0, 0] powerActionID=[6, 6] powerLastActionID=[0, 0] powerDelayActionID=[0, 0]}
+01-02 21:51:51.686  2734  2734 D PowerMitigationService: handleMessage: { when=-9ms what=10 target=com.oplus.nhs.pwr.a.b$2 }
+01-02 21:51:52.180 22571 22610 I WM-WorkerWrapper: Worker result SUCCESS for Work [ id=cf3bca8c-6559-4413-8d77-530e79f76d2b, tags={ com.oplus.crashbox.manager.fileupload.FileUploadWorker } ]
+01-02 21:51:56.927  1848  3412 D UsageStatsService: User[0] type=0 b=1767370611044 e=1767370916926 cb=1767326216823 ce=1767370864356 disk=0 all=8
+01-02 21:51:59.541  1848  1895 E system_server: Cannot read thread CPU times for PID 1848
+01-02 21:51:59.719  1280  1280 I thermal_repeater: [recvMdThermalInfo] ret=27, strLen=127,  1, 32767,,, 0, 32767, 9452
+01-02 21:52:05.731  1848  1868 D SensorService: onUidStateChanged uid = 10092, state = UID_STATE_IDLE
+01-02 21:52:07.768  2838  3193 E PhoneInterfaceManager: [PhoneIntfMgr] getCarrierPrivilegeStatus: No UICC
+01-02 21:52:07.773  6906  7005 D AudioManagerExtImpl: getStreamVolume packageName=com.applovin.array.apphub.vincere, index=5, streamType=3
+01-02 21:52:09.747  1280  1280 I thermal_repeater: [recvMdThermalInfo] ret=27, strLen=127,  1, 32767,,, 0, 32767, 9452
+01-02 21:52:13.054  1848  1875 D AES     : AEEIOCTL_GET/SET_SF_STATE IOCTL,cmd= 1074294797, lParam=0. 
+01-02 21:52:13.054  1848  1875 D AES     : AEEIOCTL_RT_MON_Kick IOCTL,cmd= 2147774474, lParam=300. 
+01-02 21:52:19.769  1280  1280 I thermal_repeater: [recvMdThermalInfo] ret=27, strLen=127,  1, 32767,,, 0, 32767, 9452
+01-02 21:52:20.421  1023  1043 D ccci_mdinit: (1):monitor_time_update_thread round:887 ########
+01-02 21:52:25.501   939   958 D power@timer: [mtkPowerTimer] visRead:0
+01-02 21:52:29.788  1280  1280 I thermal_repeater: [recvMdThermalInfo] ret=27, strLen=127,  1, 32767,,, 0, 32767, 9452
+01-02 21:52:37.768  2838  3193 E PhoneInterfaceManager: [PhoneIntfMgr] getCarrierPrivilegeStatus: No UICC
+01-02 21:52:37.772  6906  7005 D AudioManagerExtImpl: getStreamVolume packageName=com.applovin.array.apphub.vincere, index=5, streamType=3
+01-02 21:52:39.814  1280  1280 I thermal_repeater: [recvMdThermalInfo] ret=27, strLen=127,  1, 32767,,, 0, 32767, 9452
+01-02 21:52:41.947   939  1014 I libPowerHal: perfUserScnCheckAll
+01-02 21:52:41.948   939  1014 I libPowerHal: perfScnDumpAll cmd:0
+01-02 21:52:41.948   939  1014 I libPowerHal: ========================
+01-02 21:52:41.948   939  1014 I libPowerHal: system_server - freq:-1, -1, HL:-1, 1500000
+01-02 21:52:41.948   939  1014 I libPowerHal: system_server - freq:-1, -1, HL:-1, 1530000
+01-02 21:52:41.948   939  1014 I libPowerHal: system_server - gpu freq min:-1, max:15, scn_action:1
+01-02 21:52:41.948   939  1014 I libPowerHal: ========================
+01-02 21:52:43.055  1848  1875 D AES     : AEEIOCTL_GET/SET_SF_STATE IOCTL,cmd= 1074294797, lParam=0. 
+01-02 21:52:43.056  1848  1875 D AES     : AEEIOCTL_RT_MON_Kick IOCTL,cmd= 2147774474, lParam=300. 
+01-02 21:52:49.835  1280  1280 I thermal_repeater: [recvMdThermalInfo] ret=27, strLen=127,  1, 32767,,, 0, 32767, 9452
+01-02 21:52:50.427  1023  1043 D ccci_mdinit: (1):monitor_time_update_thread round:888 ########
+01-02 21:52:53.544  1292  1292 I thermal_src: recvmsg_expect 5, but get 2 
+01-02 21:52:53.544  1292  1292 V thermal_src: TA_DAEMON_CMD_GET_TPCB:ERROR ret=-1
+01-02 21:52:53.544  1292  1292 E thermal_src: get_tpcb_from_kernel:error -1. retry...
+01-02 21:52:53.544  1292  1292 I thermal_src: recvmsg_expect 4, but get 5 
+01-02 21:52:53.544  1292  1292 V thermal_src: TA_DAEMON_CMD_SET_TTJ:ERROR ret=-1
+01-02 21:52:53.544  1292  1292 E thermal_src: set_ttj_to_kernel 1:error -1
+01-02 21:52:53.544  1292  1292 I thermal_src: recvmsg_expect 2, but get 4 
+01-02 21:52:53.544  1292  1292 V thermal_src: waiting NOTIFY from kernel miss, -1
+01-02 21:52:59.857  1280  1280 I thermal_repeater: [recvMdThermalInfo] ret=27, strLen=127,  1, 32767,,, 0, 32767, 9452
+01-02 21:53:07.773  2838  3193 E PhoneInterfaceManager: [PhoneIntfMgr] getCarrierPrivilegeStatus: No UICC
+01-02 21:53:07.778  6906  7005 D AudioManagerExtImpl: getStreamVolume packageName=com.applovin.array.apphub.vincere, index=5, streamType=3
+01-02 21:53:09.881  1280  1280 I thermal_repeater: [recvMdThermalInfo] ret=27, strLen=127,  1, 32767,,, 0, 32767, 9452
+01-02 21:53:13.057  1848  1875 D AES     : AEEIOCTL_GET/SET_SF_STATE IOCTL,cmd= 1074294797, lParam=0. 
+01-02 21:53:13.059  1848  1875 D AES     : AEEIOCTL_RT_MON_Kick IOCTL,cmd= 2147774474, lParam=300. 
+01-02 21:53:19.910  1280  1280 I thermal_repeater: [recvMdThermalInfo] ret=27, strLen=127,  1, 32767,,, 0, 32767, 9452
+01-02 21:53:20.260 32116  9267 I AlarmManager: setExactAndAllowWhileIdle [name: GCM_HB_ALARM type: 2 triggerAtMillis: 45973641]
+01-02 21:53:20.265 32116  9267 I AlarmManager: setExactAndAllowWhileIdle [name: GCM_HB_ALARM type: 2 triggerAtMillis: 45973645]
+01-02 21:53:20.455  1023  1043 D ccci_mdinit: (1):monitor_time_update_thread round:889 ########
+01-02 21:53:25.559   939   958 D power@timer: [mtkPowerTimer] visRead:0
+01-02 21:53:29.929  1280  1280 I thermal_repeater: [recvMdThermalInfo] ret=27, strLen=127,  1, 32767,,, 0, 32767, 9452
+01-02 21:53:37.776  2838  3193 E PhoneInterfaceManager: [PhoneIntfMgr] getCarrierPrivilegeStatus: No UICC
+01-02 21:53:37.781  6906  7005 D AudioManagerExtImpl: getStreamVolume packageName=com.applovin.array.apphub.vincere, index=5, streamType=3
+01-02 21:53:39.947  1280  1280 I thermal_repeater: [recvMdThermalInfo] ret=27, strLen=127,  1, 32767,,, 0, 32767, 9452
+01-02 21:53:39.982  1848  1861 W System  : A resource failed to call close. 
+01-02 21:53:43.064  1848  1875 D AES     : AEEIOCTL_GET/SET_SF_STATE IOCTL,cmd= 1074294797, lParam=0. 
+01-02 21:53:43.065  1848  1875 D AES     : AEEIOCTL_RT_MON_Kick IOCTL,cmd= 2147774474, lParam=300. 
+01-02 21:53:45.003  3369  3379 E horae   : 0: back:31087,frame:31260,front:30132, -2147483648 4, +(712), 0 ,32000,31000,31972,31623
+01-02 21:53:49.967  1280  1280 I thermal_repeater: [recvMdThermalInfo] ret=27, strLen=127,  1, 32767,,, 0, 32767, 9452
+01-02 21:53:50.474  1023  1043 D ccci_mdinit: (1):monitor_time_update_thread round:890 ########
+01-02 21:53:54.829  1848  3012 I OplusCustomizeService: pkg:com.android.systemui isPlatformSigned, return true drectly 
+01-02 21:53:54.832  2229  2401 D ControlsListingControllerImpl: Subscribing callback, service count: 0
+01-02 21:53:54.852  2229  2401 D ControlsListingControllerImpl: Unsubscribing callback

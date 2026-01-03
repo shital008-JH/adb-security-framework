@@ -1,0 +1,22 @@
+01-02 21:51:04.664  1848 16262 E OplusCustomizeRestrictionManagerService: getMobileDataMode error :s == null
+01-02 21:51:04.686  1848  2388 E OplusCustomizeRestrictionManagerService: getMobileDataMode error :s == null
+01-02 21:51:04.692  1848  2388 E OplusCustomizeRestrictionManagerService: getMobileDataMode error :s == null
+01-02 21:51:04.698  1848  2388 E OplusCustomizeRestrictionManagerService: getMobileDataMode error :s == null
+01-02 21:51:07.761  2838  3193 E PhoneInterfaceManager: [PhoneIntfMgr] getCarrierPrivilegeStatus: No UICC
+01-02 21:51:37.765  2838  3193 E PhoneInterfaceManager: [PhoneIntfMgr] getCarrierPrivilegeStatus: No UICC
+01-02 21:51:50.007  3369  3379 E horae   : 0: back:31662,frame:31775,front:30664, -2147483648 4, +(958), 0 ,32600,32000,32733,32319
+01-02 21:51:51.513 15242 15261 E StdID   : com.oplus.crashbox:DUID:ret:T
+01-02 21:51:51.573 15242 15261 E StdID   : com.oplus.crashbox:GUID:ret:T
+01-02 21:51:51.594 15242 15261 E StdID   : com.oplus.crashbox:DUID:ret:T
+01-02 21:51:51.675   970   970 E vendor.oplus.hardware.mtkmodemaci@1.0-service: read mtkmodemaci failed!
+01-02 21:51:51.676  2734  2734 E ModemAciService: CatchException getIcdIntFromStringArray():java.lang.NumberFormatException: s == null
+01-02 21:51:51.676  2734  2734 E ModemAciService: CatchException getIcdIntFromStringArray():java.lang.NumberFormatException: s == null
+01-02 21:51:51.680  2734  2734 E PowerMitigationService: onPowerKpiChanged():SettleObj{ what=LO date=01-02 21:51:51.677 duration=316 screenOnRatio=0 screenOffRatio=0 power=0 current=0 networkType=null dataNetworkType=0 signalStrength=0 aodState=0 softAp=false charge=false simCount=0 defaultPhone=0 apssSleepC=0 apssSleepRatio=0 mpssSleepC=0 mpssSleepRatio=0 vminSleepC=0 vminSleepRatio=0 modemPowermA[]=[0,0,0] sleepRatio=0 idleRatio=100.00 rxRatio=0 5gRxRatio=0 txSumRatio=0 5gTxSumRatio=0 mtkTxRatio[]=[0,0,0,0,0,0,0,0] mtk5gTxRatio[]=[0,0,0,0,0,0,0,0] rrcConn10sC[]=[0, 0] rrcConn20sC[]=[0, 0] rrcConnMore20sC[]=[0, 0] rrcConnC[]=[0, 0] csChangedC[]=[0, 0] psChangedC[]=[0, 0] iRatC[]=[0, 0] cellUpdateC[]=[0, 0] nwSrchC[]=[0, 0] nwSrchRatio[]=[0,0] lteRrcConnRatio[]=[0,0] psRegRatio[]=[0,0] csRegRatio[]=[0,0] psNoRegRatio[]=[100.00,100.00] csNoRegRatio[]=[100.00,100.00] sigGrid0Ratio[]=[0,0] endcActRatio[]=[0,0] allWakeupC={} appInWakeupC={} appOutWakeupC={} appWakeupRatio={} appTrafficC={} saRrcConn10sC[]=[0, 0] saRrcConn20sC[]=[0, 0] saRrcConnMore20sC[]=[0, 0] saRrcConnC[]=[0, 0] saRrcConnRatio[]=[0,0]}
+01-02 21:51:59.541  1848  1895 E system_server: Cannot read thread CPU times for PID 1848
+01-02 21:52:07.768  2838  3193 E PhoneInterfaceManager: [PhoneIntfMgr] getCarrierPrivilegeStatus: No UICC
+01-02 21:52:37.768  2838  3193 E PhoneInterfaceManager: [PhoneIntfMgr] getCarrierPrivilegeStatus: No UICC
+01-02 21:52:53.544  1292  1292 E thermal_src: get_tpcb_from_kernel:error -1. retry...
+01-02 21:52:53.544  1292  1292 E thermal_src: set_ttj_to_kernel 1:error -1
+01-02 21:53:07.773  2838  3193 E PhoneInterfaceManager: [PhoneIntfMgr] getCarrierPrivilegeStatus: No UICC
+01-02 21:53:37.776  2838  3193 E PhoneInterfaceManager: [PhoneIntfMgr] getCarrierPrivilegeStatus: No UICC
+01-02 21:53:45.003  3369  3379 E horae   : 0: back:31087,frame:31260,front:30132, -2147483648 4, +(712), 0 ,32000,31000,31972,31623

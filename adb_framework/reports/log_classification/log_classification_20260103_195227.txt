@@ -1,0 +1,41 @@
+
+===== CRITICAL (0) =====
+
+===== RECOVERABLE (0) =====
+
+===== VENDOR_NOISE (13) =====
+01-03 19:52:01.190  1292  1292 I thermal_src: big tpcb jump! previous/current = -274000/28993
+01-03 19:52:01.418  1292  1292 I thermal_src: big tpcb jump! previous/current = 28993/-274000
+01-03 19:52:05.888  1280  1280 I thermal_repeater: [recvMdThermalInfo] ret=27, strLen=127,  1, 32767,,, 0, 32767, 9452
+01-03 19:52:07.155  1292  1292 I thermal_src: big tpcb jump! previous/current = -274000/28964
+01-03 19:52:07.196  1292  1292 I thermal_src: big tpcb jump! previous/current = 28964/-274000
+01-03 19:52:14.187  1292  1292 I thermal_src: big tpcb jump! previous/current = -274000/28993
+01-03 19:52:14.274  1292  1292 I thermal_src: big tpcb jump! previous/current = 28993/-274000
+01-03 19:52:18.892  1292  1292 I thermal_src: big tpcb jump! previous/current = -274000/28936
+01-03 19:52:18.973  1292  1292 I thermal_src: big tpcb jump! previous/current = 28936/-274000
+01-03 19:52:19.132  2229  2401 W TileLifecycleManager: Trying to unlink not linked recipient for componentcom.oplus.eyeprotect/.services.EyeProtectTileService
+01-03 19:52:22.486  1280  1280 I thermal_repeater: [recvMdThermalInfo] ret=27, strLen=127,  1, 32767,,, 0, 32767, 9452
+01-03 19:52:25.085  1292  1292 I thermal_src: big tpcb jump! previous/current = -274000/28964
+01-03 19:52:26.254  1292  1292 I thermal_src: big tpcb jump! previous/current = 28964/-274000
+
+===== UNCATEGORIZED (71) =====
+01-03 19:51:59.738  1519  1587 E VoLTE IMSM: Interrupt happen Interrupted system call (4) (module/mdagent/volte_imsm_93/src/imsmmd.c:2800)
+01-03 19:51:59.738  1534  1585 E VoLTE IMCB-CM: RECEIVE error code: EINTR, Need to retry #51
+01-03 19:52:00.643  1033  1033 E ccci_rpcd: Failed to read from RPC device (-1) !! errno = 4
+01-03 19:52:00.645  1519  1587 E VoLTE IMSM: Interrupt happen Interrupted system call (4) (module/mdagent/volte_imsm_93/src/imsmmd.c:2800)
+01-03 19:52:00.646  1534  1585 E VoLTE IMCB-CM: RECEIVE error code: EINTR, Need to retry #51
+01-03 19:52:01.320  1033  1033 E ccci_rpcd: Failed to read from RPC device (-1) !! errno = 4
+01-03 19:52:01.322  1519  1587 E VoLTE IMSM: Interrupt happen Interrupted system call (4) (module/mdagent/volte_imsm_93/src/imsmmd.c:2800)
+01-03 19:52:01.323  1534  1585 E VoLTE IMCB-CM: RECEIVE error code: EINTR, Need to retry #51
+01-03 19:52:02.266  1033  1033 E ccci_rpcd: Failed to read from RPC device (-1) !! errno = 4
+01-03 19:52:02.269  1519  1587 E VoLTE IMSM: Interrupt happen Interrupted system call (4) (module/mdagent/volte_imsm_93/src/imsmmd.c:2800)
+01-03 19:52:02.270  1534  1585 E VoLTE IMCB-CM: RECEIVE error code: EINTR, Need to retry #51
+01-03 19:52:03.425  1033  1033 E ccci_rpcd: Failed to read from RPC device (-1) !! errno = 4
+01-03 19:52:03.427  1519  1587 E VoLTE IMSM: Interrupt happen Interrupted system call (4) (module/mdagent/volte_imsm_93/src/imsmmd.c:2800)
+01-03 19:52:03.427  1534  1585 E VoLTE IMCB-CM: RECEIVE error code: EINTR, Need to retry #51
+01-03 19:52:04.654  1033  1033 E ccci_rpcd: Failed to read from RPC device (-1) !! errno = 4
+01-03 19:52:04.654  1519  1587 E VoLTE IMSM: Interrupt happen Interrupted system call (4) (module/mdagent/volte_imsm_93/src/imsmmd.c:2800)
+01-03 19:52:04.655  1534  1585 E VoLTE IMCB-CM: RECEIVE error code: EINTR, Need to retry #51
+01-03 19:52:05.876  1033  1033 E ccci_rpcd: Failed to read from RPC device (-1) !! errno = 4
+01-03 19:52:05.878  1519  1587 E VoLTE IMSM: Interrupt happen Interrupted system call (4) (module/mdagent/volte_imsm_93/src/imsmmd.c:2800)
+01-03 19:52:05.879  1534  1585 E VoLTE IMCB-CM: RECEIVE error code: EINTR, Need to retry #51
