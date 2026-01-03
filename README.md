@@ -35,60 +35,6 @@ It follows a **clean modular architecture**, making it suitable for:
 
 ---
 
-## 🧱 Architecture Overview
-
- ADB (CLI)
-  │
-  ├── adb_utils.py
-  │     └─ Central ADB command handler
-  │
-  ├── runners/
-  │     └─ CLI execution layer
-  │
-  └── modules/
-        └─ Core analysis engines
-
-
-Each **module** contains logic only.  
-Each **runner** executes one module via ADB.
-
----
-
-## 📁 Project Structure
-
-adb-security-framework/
-├── modules/
-│ ├── app_analyzer_v1.py
-│ ├── app_name_resolver.py
-│ ├── automation_engine_v1.py
-│ ├── device_info.py
-│ ├── log_classifier_v1.py
-│ ├── logcat_analyzer_v1.py
-│ ├── malware_heuristic_engine_v1.py
-│ ├── permission_risk_engine_v1.py
-│ ├── report_engine_v1.py
-│ ├── security_audit_v1.py
-│ └── trust_filter_engine_v1.py
-│
-├── runners/
-│ ├── run_device_info.py
-│ ├── run_app_analyzer_v1.py
-│ ├── run_permission_risk_engine_v1.py
-│ ├── run_logcat_analyzer_v1.py
-│ ├── run_malware_heuristic_engine_v1.py
-│ ├── run_security_audit_v1.py
-│ └── run_report_engine_v1.py
-│
-├── reports/
-│ └── .gitkeep
-│
-├── adb_utils.py
-├── main.py
-├── README.md
-└── .gitignore
-
----
-
 ## 🚀 Getting Started
 
 ### 1️⃣ Prerequisites
@@ -101,12 +47,12 @@ adb-security-framework/
 Verify ADB:
 adb devices
 ---
-### 2️⃣ Clone Repository
+## 2️⃣ Clone Repository
 
 git clone https://github.com/your-username/adb-security-framework.git
 cd adb-security-framework
 ---
-### 3️⃣ Run Individual Modules
+## 3️⃣ Run Individual Modules
 
 Examples:
 python runners/run_device_info.py
@@ -115,7 +61,7 @@ python runners/run_permission_risk_engine_v1.py
 python runners/run_security_audit_v1.py
 Each runner works independently.
 ---
-### 🔐 Security & Privacy Design
+## 🔐 Security & Privacy Design
 
 This framework:
 ❌ Does NOT root the device
@@ -125,7 +71,7 @@ This framework:
 ✅ Keeps all analysis local
 ---
 
-### 📄 About .gitignore
+## 📄 About .gitignore
 
 .gitignore is used to prevent tracking:
 Generated reports
@@ -137,7 +83,7 @@ No sensitive information is uploaded
 Clean and reproducible repository
 ---
 
-### 📂 Reports Directory
+## 📂 Reports Directory
 
 The reports/ folder is intentionally kept empty in the repository.
 Generated at runtime
@@ -145,7 +91,7 @@ Ignored by Git
 Preserved using .gitkeep
 ---
 
-### 🛠️ Extending the Framework
+## 🛠️ Extending the Framework
 
 You can add:
 i). New analysis modules in modules/
@@ -155,7 +101,7 @@ iv). Network traffic inspection
 v). ML-based behavior analysis
 ---
 
-### 🎓 Academic Use
+## 🎓 Academic Use
 
 1. This project is suitable for:
 2. Engineering projects
@@ -163,21 +109,21 @@ v). ML-based behavior analysis
 4. Android security research demonstrations
    ---
 
-### 📜 Disclaimer
+## 📜 Disclaimer
 
 This tool is intended for educational and research purposes only.
 Use only on devices you own or have explicit permission to analyze.
 ---
 
-### 👤 Author
+## 👤 Author
 Developed as an advanced Android security analysis project using ADB and Python.
 ---
 
-### ⭐ If You Find This Useful
+## ⭐ If You Find This Useful
 
 ---
 
-### ✅ What this README gives you
+## ✅ What this README gives you
 - Professional tone  
 - Clear architecture  
 - Recruiter-safe  
